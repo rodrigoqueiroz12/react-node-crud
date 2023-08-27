@@ -7,7 +7,7 @@ const StyledInputControl = styled.div`
   gap: 1rem;
 
   flex-grow: 1;
-  
+
   & label {
     font-size: 1.6rem;
     font-weight: 700;

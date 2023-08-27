@@ -62,7 +62,7 @@ const StyledTable = styled.table`
     }
 
     & .missing {
-      color: #FF4136;
+      color: #ff4136;
     }
   }
 `

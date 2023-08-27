@@ -3,11 +3,7 @@ import PropTypes from "prop-types"
 import StyledModal from "./styled"
 
 const Modal = ({ children }) => {
-  return (
-    <StyledModal>
-      {children}
-    </StyledModal>
-  )
+  return <StyledModal>{children}</StyledModal>
 }
 
 Modal.propTypes = {
