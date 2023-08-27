@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*,
+:is(input, textarea, select) {
+  color: #252525;
+  font-size: 1.6rem;
+  font-weight: normal;
+  font-family: 'Figtree', sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
